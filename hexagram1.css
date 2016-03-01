@@ -1,0 +1,182 @@
+.table{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 24px;
+}
+
+
+h3.table{
+  color: #A4A4A4;
+  text-align: right;
+  
+
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    float: right;
+    margin-right: 29.0%;
+    z-index: 5; 
+    position:relative;
+}
+
+
+.verse{
+  font-size: 18px;
+  font-family:futura;
+  text-align: right;
+  
+
+}
+p.at_the {
+
+  text-align: right;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: bold;
+  padding-bottom: 2px;
+  font-size: 20px;
+
+}
+
+p.verse{
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+padding-bottom: 2px;
+
+}
+
+.back{
+  height: 300px;
+  width: 500px;
+  background-color:"transparent";
+  position: sticky;
+  top: 120px;
+  left: 19vw;
+}
+
+.r{
+  background-color:white;
+  width:8.2vw;
+  height:250vh;
+  overflow: auto;
+  position: absolute;
+  left:0px;
+  top:0px;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-right-color: #A4A4A4;
+}
+
+.hex{
+  background-color: transparent;
+  height: 150px;
+  width: 120px;
+  position:absolute;
+  left:3.7vw;
+  top:27vh;
+
+}
+
+.jonah{
+  height:500%;
+  width:100%;
+  margin-left: 22.7%;
+
+
+}
+
+
+
+.Tidal{
+  position: absolute;
+  left:27vw;
+  top:40px;
+  float: right;
+  text-align: right;
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+pre {
+
+font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+display: inline-block;
+margin-left: 39%;
+
+}
+
+h3.hexnum{
+  text-align: left;
+  float: left;
+  display: inline-block;
+  margin-top: 56px;
+
+
+}
+
+h1.Tidal{
+  text-align: left;
+  float: left;
+  margin-left: 78%;
+  display: inline-block;
+
+}
+
+.char {
+  height: 150px;
+  width: 140px;
+  position: relative;
+  left: 50vw;
+  top: 25vh;
+
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    position: absolute;
+    width: 62.85%;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    border-bottom:  1px solid;
+    border-color: #A4A4A4;
+
+
+
+}
+
+li {
+    float: right;
+    border-right-width: 100%;
+  
+}
+
+li a {
+    display: inline-block;
+    color: black;
+    border-width:100%;
+    float: right;
+    text-align: justify;
+    padding: 5px 10px;
+    overflow: hidden;
+    text-decoration: none;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+
+li a:hover {
+    background-color: white;
+    color: #A4A4A4;
+}
+
+h1.par {
+
+  font-size: 12px;
+  display: inline-block;
+
+}
+
